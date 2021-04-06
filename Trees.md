@@ -92,6 +92,10 @@ The base case is the empty tree, which contains no cargo, so the sum is 0. The r
 
 [Really helpful link](https://medium.com/swlh/making-data-trees-in-python-3a3ceb050cfd)
 
+## Practice
+
+For the practice for trees, I decided just do one exercise since it's longer and a bit harder than the others.
+
 [Practice](https://replit.com/@TammyNolasco/Treespractice)
 
 [Solution](https://replit.com/@TammyNolasco/treessolution)
