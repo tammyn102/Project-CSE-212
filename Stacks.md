@@ -46,8 +46,8 @@ stack.pop()         #pop the last element`
 
 `'c'`
 
-`
-stack.pop()        #pop the last element`
+
+`stack.pop()        #pop the last element`
 
 `'b'`
 
