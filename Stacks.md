@@ -31,7 +31,7 @@ We can keep stacking pokemons on top of the one before. However, circumstances c
 stack.append(‘a’)  	  	  # push 'a' to the stack
 stack.append(‘b’)  		 # push 'b' to the stack
 stack.append(‘c’)   # push 'c' to the stack
-`
+
 `
 print(stack)
 `
@@ -63,3 +63,13 @@ stack.pop()        #pop the last element`
 ![](pop.jpeg)
 
 [More info](https://realpython.com/how-to-implement-python-stack/)
+
+
+## Practice
+[Pop practice](https://replit.com/@TammyNolasco/Poppractice)
+
+[Solution](https://replit.com/@TammyNolasco/stackpop)
+
+[Push practice](https://replit.com/@TammyNolasco/Push)
+
+[Solution](https://replit.com/@TammyNolasco/Pushsolution)
