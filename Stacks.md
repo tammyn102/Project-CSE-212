@@ -27,10 +27,13 @@ We can keep stacking pokemons on top of the one before. However, circumstances c
 
 **pop** - removes the element at the top of the stack
 
-`stack = []         	 # create an empty stack
-stack.append(‘a’)  	  	  # push 'a' to the stack
-stack.append(‘b’)  		 # push 'b' to the stack
-stack.append(‘c’)   # push 'c' to the stack
+`stack = []         	 # create an empty stack`
+
+`stack.append(‘a’)  	  	  # push 'a' to the stack`
+
+`stack.append(‘b’)  		 # push 'b' to the stack`
+
+`stack.append(‘c’)   # push 'c' to the stack`
 
 `
 print(stack)
